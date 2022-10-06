@@ -14,9 +14,9 @@ namespace git_pra
             Application.Run(new Form1());
 
         }
-        public static string Program1(string name)  
+        public static string Action()
         {
-           
+            return "1123";
         }
     }
 }
