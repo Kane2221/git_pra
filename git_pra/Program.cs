@@ -20,7 +20,7 @@ namespace git_pra
         }
         public static string Program2(string name)
         {
-
+            return name;
         }
         public static string test()
         {
