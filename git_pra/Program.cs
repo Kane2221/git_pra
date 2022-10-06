@@ -18,7 +18,10 @@ namespace git_pra
         {
             return "1123";
         }
-
+        public static string Program2(string name)
+        {
+            return name;
+        }
         public static string test()
         {
             return "test";
