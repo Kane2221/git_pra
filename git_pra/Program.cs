@@ -22,5 +22,9 @@ namespace git_pra
         {
 
         }
+        public static string test()
+        {
+            return "test";
+        }
     }
 }
